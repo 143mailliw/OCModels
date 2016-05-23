@@ -1,0 +1,29 @@
+{
+  label = "Floppy",
+  tooltip = "By William",
+  shapes = {
+    { 3,0,3,13,1,5,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 3,0,5,4,1,14,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 4,0,2,12,1,5,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 4,0,5,6,1,10,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 4,0,10,10,1,11,texture = "wool_colored_white", tint = 0xdddddd },
+    { 4,0,11,5,1,14,texture = "wool_colored_white", tint = 0xdddddd },
+    { 5,0,11,8,1,13,texture = "wool_colored_gray", tint = 0x777777 },
+    { 5,0,13,10,1,14,texture = "wool_colored_white", tint = 0xdddddd },
+    { 6,0,5,7,1,6,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 6,0,6,9,1,7,texture = "wool_colored_white", tint = 0xaaaaaa },
+    { 6,0,7,7,1,10,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 7,0,5,8,1,8,texture = "wool_colored_white", tint = 0xaaaaaa },
+    { 7,0,8,13,1,10,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 8,0,5,13,1,6,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 8,0,7,13,1,10,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 8,0,11,10,1,12,texture = "wool_colored_white", tint = 0xdddddd },
+    { 8,0,12,9,1,13,texture = "wool_colored_gray", tint = 0x777777 },
+    { 9,0,6,13,1,10,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 9,0,12,10,1,14,texture = "wool_colored_white", tint = 0xdddddd },
+    { 10,0,10,13,1,12,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 10,0,12,11,1,14,texture = "wool_colored_blue", tint = 0x3300ff },
+    { 11,0,12,12,1,13,texture = "wool_colored_blue", tint = 0x3300ff },
+
+  }
+}
