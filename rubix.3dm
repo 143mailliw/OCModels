@@ -1,0 +1,14 @@
+{
+  label = "Rubix Cube",
+  tooltip = "By William",
+  lightLevel = 9,
+  shapes = {
+    { 6,0,7,9,1,10,texture = "wool_colored_red", tint = 0xdd0000 },
+    { 5,1,7,6,4,10,texture = "wool_colored_blue", tint = 0x0000ee },
+    { 6,1,6,9,4,7,texture = "wool_colored_yellow", tint = 0xffff00 },
+    { 6,1,10,9,4,11,texture = "wool_colored_white", tint = 0xeeeeee },
+    { 9,1,7,10,4,10,texture = "wool_colored_green", tint = 0x00ee00 },
+    { 6,4,7,9,5,10,texture = "wool_colored_orange", tint = 0xff6600 },
+
+  }
+}
