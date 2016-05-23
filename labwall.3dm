@@ -1,0 +1,7 @@
+{
+  label = "Lab Wall",
+  tooltip = "By William",
+  shapes = {
+    { 0,0,15,16,16,16,texture = "iron_block", tint = 0x996600 },
+  }
+}
